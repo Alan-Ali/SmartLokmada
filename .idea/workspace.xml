@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="18th of december first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SmartLokmada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SmartLokmada_ear_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SmartLokmada_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/appetizer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/burger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/coffe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/dessert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/kamerik.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/frozen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/ice-coffe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/appetizier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/ch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/coffe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/coffe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/coffe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/dessert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/juice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/milkshake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/pasta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/special.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/special1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/steak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/sweet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/lib/dark-switch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/lib/theme-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main-course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/milkshake.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pasta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pizza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/special.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/Page2/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/aboutUs/_aboutUs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/footer/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/header/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/nav/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/sections/_contactUs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/sections/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/variable/_var.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/sweets.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2J6HjNtJza1zqSkiB1ltWoUUgWq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2705314"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="" />
+      <created>1671391758864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671391758864</updated>
+      <workItem from="1671391758867" duration="1392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="18th of december first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th of december first commit" />
+  </component>
+</project>
