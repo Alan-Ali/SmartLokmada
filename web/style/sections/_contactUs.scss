@@ -1,0 +1,22 @@
+.contactSection {
+    padding: 20px 0;
+    margin: 20px 0;
+
+    .input__field {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin: 10px 0;
+
+        label {
+            margin: 10px 0;
+        }
+
+
+        textarea,
+        input {
+            width: 100%;
+            padding: 10px;
+        }
+    }
+}

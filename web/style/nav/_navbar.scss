@@ -1,0 +1,29 @@
+nav.navbar {
+    background-color: #1f1f1f !important;
+
+    a.navbar-brand {
+        color: $lightColor;
+    }
+
+    .navbar-collapse .navbar-nav li .nav-link {
+        color: $lightColor;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+}
+
+.back {
+    height: 30px;
+    background-color: #c99f42;
+    color: white;
+    width: 50px;
+    position: fixed;
+    top: 10%;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

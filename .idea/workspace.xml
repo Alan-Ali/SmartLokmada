@@ -6,23 +6,67 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="18th of december first commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fontawesome/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fontawesome/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fontawesome/js/all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/fontawesome/js/all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/menu/menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/style/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/style/colorStructure.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/style/colorVariables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/style/sizesStructure.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
+    <list default="true" id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="19th of december second commit">
+      <change afterPath="$PROJECT_DIR$/SmartLokmada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/fonts/kamerik.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/appetizier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/ch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/coffe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/coffe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/coffe2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/dessert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/juice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/milkshake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/pasta.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/special.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/special1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/steak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/images/sweet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/lib/dark-switch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/lib/theme-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/appetizer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/burger.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/coffe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/dessert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/frozen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/ice-coffe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/main-course.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/milkshake.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/pasta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/pizza.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/special.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/pages/frontend/sweets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/Page2/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/aboutUs/_aboutUs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/footer/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/header/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/nav/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/sections/_contactUs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/sections/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/variable/_var.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +229,16 @@
       <workItem from="1671436432247" duration="169000" />
       <workItem from="1671436611736" duration="950000" />
       <workItem from="1671437626713" duration="592000" />
+      <workItem from="1671439708915" duration="393000" />
     </task>
+    <task id="LOCAL-00001" summary="19th of december first commit">
+      <created>1671439846897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671439846897</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +257,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18th of december first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="18th of december first commit" />
+    <MESSAGE value="19th of december first commit" />
+    <MESSAGE value="19th of december second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th of december second commit" />
   </component>
 </project>

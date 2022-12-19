@@ -1,0 +1,33 @@
+@font-face {
+    font-family: lokmada;
+    src: url('../assets/fonts/kamerik.ttf');
+}
+
+body {
+    overflow-x: hidden;
+}
+
+body.dark {
+    color: white;
+    background-color: #18191a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: lokmada
+}
+
+.number:nth-of-type(even) {
+    margin-left: 20px
+}
+
+@import './variable/var';
+@import './nav/navbar';
+@import './header/header';
+@import './sections/sections';
+@import './footer/footer';
+@import './Page2/menu';
+@import './aboutUs/aboutUs';
+@import './sections/contactUs';

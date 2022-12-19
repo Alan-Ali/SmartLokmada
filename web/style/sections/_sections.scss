@@ -1,0 +1,73 @@
+.sections {
+    padding: 5rem 0;
+    background-color: $darkColor;
+    color: $lightColor;
+
+    .responsive {
+        text-align: center;
+
+        h2 {
+            text-align: center;
+            display: inline-block;
+            margin: 10px auto 0;
+            color: white;
+
+            @media screen and (max-width : 1000px) {
+                font-size: 1.7rem;
+            }
+
+            @media screen and (max-width : 769px) {
+                font-size: 1.5rem;
+            }
+
+            @media screen and (max-width : 600px) {
+                font-size: 1.2rem;
+            }
+        }
+
+    }
+
+    //sectionFood
+    .sectionFood {
+        padding: 5px;
+        border-radius: 10px;
+        border: 2px dashed $lightColor;
+        overflow: hidden;
+        cursor: pointer;
+        position: relative;
+        overflow: hidden;
+        margin: 0 auto;
+
+        img {
+            object-fit: cover;
+            transition: transform 0.3s;
+        }
+
+        .imageContainer {
+            margin: auto;
+            height: 100%;
+            width: 100%;
+            border-radius: 100%;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        &:hover img {
+            transform: scale(1.1);
+        }
+
+        .img-thumbnail {
+            border: none;
+            background-color: transparent;
+            border-radius: 10px;
+        }
+    }
+
+    .container .row>div {
+        margin: 20px 0;
+    }
+}
