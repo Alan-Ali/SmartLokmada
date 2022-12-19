@@ -56,7 +56,7 @@ body {
     border-radius: 0;
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--site-secondary);
+    background: black;
 }
 
 /* Chrome, Safari, Edge, Opera */
