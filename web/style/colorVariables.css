@@ -1,0 +1,29 @@
+:root {
+
+    --primary: #484F61;
+    --primary-first-der: #6d8296;
+    --primary-second-der:  #06617D;
+    /*--primary-second-der: #0989B3;*/
+
+    --secondary: #FAFAFA;
+    --secondary-first-der: #FFFFFF;
+    --secondary-second-der: #ACA474;
+
+    --tertiary: #888888;
+    --tertiary-first-der: #8B8B8B;
+    --tertiary-second-der: #696969;
+
+    --read: #a9ccf0;
+    --update: #f2e1ae;
+    --change: #d6d7db;
+    --insert: #b6e7d1;
+    --search: #1960EA;
+
+    --table-odd: #e5e5e5;
+    --table-even: #f6f6f6;
+
+    --site-primary: #192F58;
+    --site-primary-op-1: rgba(25, 47, 88, 0.80);
+
+    --site-secondary: #B9AB87;
+}
