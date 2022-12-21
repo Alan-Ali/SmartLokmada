@@ -1,0 +1,105 @@
+@import url(../style/colorVariables.css);
+
+:root{
+    --item-image: 150px;
+}
+.category-item-container{
+    /*overflow-x: auto;*/
+    white-space: nowrap;
+}
+
+
+
+#category-item-container{
+    scroll-padding: 0 100px 0 100px;
+    scroll-snap-type: x mandatory;;
+
+}
+#category-item-container::-webkit-scrollbar {
+    width: 0;
+    display: none;
+}
+
+
+.category-item{
+    width: 180px;
+    margin: 0 10px 0 10px ;
+    cursor: pointer;
+    scroll-snap-align: center;
+    scroll-snap-stop: normal;
+    /*scroll-padding: 0 50px 0 50px;*/
+}
+
+/*.category-item-container .wrapper{*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(auto-fit, 180px);*/
+/*    grid-template-rows: 100%;*/
+/*    grid-gap: 10px;*/
+/*    padding: 100px 100px 400px 100px; !* To give more space to scroll *!*/
+/*}*/
+
+.category-image{
+    width: 130px;
+    height: 90px;
+    top: 25%;
+    left: 50%;
+    /*margin: 0 10px 0 10px ;*/
+}
+.category-word{
+    width: 170px;
+    height: 110px;
+    top: 60%;
+    left: 50%;
+}
+
+.category-item:active .category-word{
+    width: 150px;
+    height: 90px;
+}
+
+
+.category-item:active .category-image{
+    width: 110px;
+    height: 70px;
+}
+
+
+.category-word, .category-image{
+    transform: translate(-50%, -50%);
+    transition: 250ms width, 250ms height, 250ms color, 250ms background-color;
+}
+
+.item-details-container{
+    width: calc(100% - (var(--item-image)));
+}
+
+.item-container{
+    width: 100%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    transition: 250ms width, 250ms height, 250ms background-color ;
+    cursor: pointer;
+}
+
+.item-container:active{
+    width: 98%;
+    height: 95%;
+    background-color: var(--lok-menu-primary);
+}
+.item-words{
+    transition: 250ms color;
+
+}
+.item-container:active .item-details-container .item-words{
+    color: var(--lok-menu-tertiary-first-der)
+
+}
+
+
+.item-image-container{
+    width: var(--item-image);
+}

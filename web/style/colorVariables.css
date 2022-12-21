@@ -22,8 +22,8 @@
     --table-odd: #e5e5e5;
     --table-even: #f6f6f6;
 
-    --site-primary: #192F58;
-    --site-primary-op-1: rgba(25, 47, 88, 0.80);
-
-    --site-secondary: #B9AB87;
+    --lok-menu-primary: #363636;
+    --lok-menu-secondary: #5A5A5A;
+    --lok-menu-tertiary: #8A8A8A;
+    --lok-menu-tertiary-first-der: #E3E3E3;
 }

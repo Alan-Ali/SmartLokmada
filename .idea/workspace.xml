@@ -6,10 +6,31 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="19th of december second commit">
+    <list default="true" id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="19th of december first commit">
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/scrollX.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/style/menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/appetizer.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/appetizer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/burger.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/burger.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/coffe.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/coffe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/dessert.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/dessert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/frozen.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/frozen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/ice-coffe.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/ice-coffe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/pages/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/main-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/main-course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/milkshake.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/milkshake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/pasta.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/pasta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/pizza.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/pizza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/special.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/special.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/frontend/sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/sweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/pages/menu/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/menu/menu.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/style/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/style/colorStructure.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/colorStructure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/style/colorVariables.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/colorVariables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +40,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="Jsp File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,21 +67,24 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/NetBeansProjects/SmartLokmada/web/assets&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.16308594&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.1904762&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/user/Documents/NetBeansProjects/SmartLokmada/web/assets/bootstrap/css",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.16308594",
+    "project.structure.side.proportion": "0.1904762",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\NetBeansProjects\SmartLokmada\web\assets\bootstrap\css" />
       <recent name="C:\Users\user\Documents\NetBeansProjects\SmartLokmada\web\assets" />
       <recent name="C:\Users\user\Documents\NetBeansProjects\SmartLokmada\web\style" />
     </key>
@@ -69,7 +95,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 9.0.69" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.69" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="Tomcat 9.0.69" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.69" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="18">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
@@ -173,7 +202,10 @@
       <workItem from="1671436611736" duration="950000" />
       <workItem from="1671437626713" duration="592000" />
       <workItem from="1671439708915" duration="530000" />
-      <workItem from="1671454581674" duration="297000" />
+      <workItem from="1671454581674" duration="1773000" />
+      <workItem from="1671516842755" duration="13070000" />
+      <workItem from="1671536518826" duration="6849000" />
+      <workItem from="1671603010495" duration="21396000" />
     </task>
     <task id="LOCAL-00001" summary="19th of december first commit">
       <created>1671439846897</created>
@@ -189,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671440147472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="19th of december first commit">
+      <created>1671455247826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671455247826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,8 +247,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="18th of december first commit" />
-    <MESSAGE value="19th of december first commit" />
     <MESSAGE value="19th of december second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th of december second commit" />
+    <MESSAGE value="19th of december first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th of december first commit" />
   </component>
 </project>

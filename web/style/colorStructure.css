@@ -189,18 +189,28 @@
 }
 
 
-.cust-site-bg-primary{
-    background-color: var(--site-primary) !important;
+.lok-bg-primary{
+    background-color: var(--lok-menu-primary);
 }
 
-.cust-site-bg-secondary{
-    background-color: var(--site-secondary) !important;
+.lok-bg-secondary{
+    background-color: var(--lok-menu-secondary);
 }
 
-.cust-site-text-primary{
-    color: var(--site-primary) !important;
+.lok-bg-tertiary{
+    background-color: var(--lok-menu-tertiary);
+}
+.lok-text-primary{
+    color: var(--lok-menu-primary);
 }
 
-.cust-site-text-secondary{
-    color: var(--site-secondary) !important;
+.lok-text-secondary{
+    color: var(--lok-menu-secondary);
+}
+
+.lok-text-tertiary{
+    color: var(--lok-menu-tertiary);
+}
+.lok-text-tertiary-first{
+    color: var(--lok-menu-tertiary-first-der);
 }
