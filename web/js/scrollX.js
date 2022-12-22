@@ -28,7 +28,7 @@ const grabbingX = (ele) => {
             top: ele.scrollTop,
             // Get the current mouse position
             x: e.clientX,
-            // y: e.clientY
+            y: e.clientY
         };
 
         // ele.style.cursor = 'grabbing';

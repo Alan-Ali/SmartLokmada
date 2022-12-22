@@ -6,31 +6,209 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="19th of december first commit">
-      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/scrollX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/style/menu.css" afterDir="false" />
+    <list default="true" id="231eddf0-bc26-4639-8eb0-f64f9a05c618" name="Changes" comment="21th of december second commit">
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/boolean.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/boolean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/boolean.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/debounce.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/debounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/debounce.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/range.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/decorators/range.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/dist/plugins/overscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/dist/smooth-scrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/keyboard.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/keyboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/keyboard.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/mouse.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/mouse.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/resize.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/resize.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/select.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/select.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/touch.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/touch.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/wheel.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/wheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/events/wheel.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/get-size.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/get-size.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/get-size.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/is-visible.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/is-visible.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/is-visible.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/update.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/geometry/update.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/data-2d.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/data-2d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/data-2d.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/plugin.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/scrollbar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/scrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/scrollbar.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/track.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/track.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/interfaces/track.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/CopyrightNotice.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/modules/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/test/validateModuleExportsMatchCommonJS/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/test/validateModuleExportsMatchCommonJS/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/tslib.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/tslib.es6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/tslib.es6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/tslib.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/node_modules/tslib/tslib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/options.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/options.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugin.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/bounce.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/bounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/bounce.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/glow.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/glow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/glow.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/plugins/overscroll/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/polyfills.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/polyfills.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrollbar.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrollbar.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/scroll-into-view.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/scroll-into-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/scroll-into-view.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/scroll-to.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/scroll-to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/scroll-to.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/set-position.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/set-position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/scrolling/set-position.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/decorators/boolean.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/decorators/debounce.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/decorators/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/decorators/range.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/events/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/events/keyboard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/events/mouse.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/events/resize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/events/select.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/events/touch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/events/wheel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/geometry/get-size.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/geometry/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/geometry/is-visible.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/geometry/update.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/interfaces/data-2d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/interfaces/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/interfaces/plugin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/interfaces/scrollbar.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/interfaces/track.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/options.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/plugin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/plugins/overscroll/bounce.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/plugins/overscroll/glow.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/plugins/overscroll/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/scrollbar.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/scrolling/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/scrolling/scroll-into-view.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/scrolling/scroll-to.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/scrolling/set-position.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/track/direction.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/track/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/track/thumb.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/track/track.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/utils/event-hub.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/utils/get-pointer-data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/utils/get-position.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/utils/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/utils/is-one-of.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/utils/set-style.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/src/utils/touch-record.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/style.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/direction.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/direction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/direction.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/thumb.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/thumb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/thumb.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/track.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/track.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/track/track.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/event-hub.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/event-hub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/event-hub.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/get-pointer-data.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/get-pointer-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/get-pointer-data.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/get-position.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/get-position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/get-position.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/is-one-of.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/is-one-of.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/is-one-of.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/set-style.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/set-style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/set-style.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/touch-record.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/touch-record.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/assets/smooth-scrollbar/utils/touch-record.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/animations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/menu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/appetizer.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/appetizer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/burger.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/burger.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/coffe.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/coffe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/dessert.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/dessert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/frozen.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/frozen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/ice-coffe.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/ice-coffe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/main-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/main-course.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/milkshake.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/milkshake.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/pasta.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/pasta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/pizza.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/pizza.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/special.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/special.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/pages/frontend/sweets.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/frontend/sweets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/scrollX.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/scrollX.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/pages/menu/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/pages/menu/menu.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/style/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/all.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/style/colorStructure.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/colorStructure.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/style/colorVariables.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/colorVariables.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/style/menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/style/menu.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +251,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/user/Documents/NetBeansProjects/SmartLokmada/web/assets/bootstrap/css",
+    "last_opened_file_path": "C:/Users/user/Documents/NetBeansProjects/SmartLokmada/web/js",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
@@ -84,6 +262,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\NetBeansProjects\SmartLokmada\web\js" />
       <recent name="C:\Users\user\Documents\NetBeansProjects\SmartLokmada\web\assets\bootstrap\css" />
       <recent name="C:\Users\user\Documents\NetBeansProjects\SmartLokmada\web\assets" />
       <recent name="C:\Users\user\Documents\NetBeansProjects\SmartLokmada\web\style" />
@@ -205,7 +384,9 @@
       <workItem from="1671454581674" duration="1773000" />
       <workItem from="1671516842755" duration="13070000" />
       <workItem from="1671536518826" duration="6849000" />
-      <workItem from="1671603010495" duration="21396000" />
+      <workItem from="1671603010495" duration="22657000" />
+      <workItem from="1671634832447" duration="15495000" />
+      <workItem from="1671689434877" duration="11458000" />
     </task>
     <task id="LOCAL-00001" summary="19th of december first commit">
       <created>1671439846897</created>
@@ -228,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671455247826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="21th of december first commit">
+      <created>1671631015068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671631015068</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +437,8 @@
     <MESSAGE value="18th of december first commit" />
     <MESSAGE value="19th of december second commit" />
     <MESSAGE value="19th of december first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th of december first commit" />
+    <MESSAGE value="21th of december first commit" />
+    <MESSAGE value="21th of december second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="21th of december second commit" />
   </component>
 </project>

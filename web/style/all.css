@@ -40,6 +40,10 @@ body {
     transform: scaleX(-1);
 }
 
+.user-select-none{
+    user-select: none;
+}
+
 ::-webkit-scrollbar {
     width: 3px;
     height: 5px;
@@ -510,6 +514,9 @@ input[type=number] {
     min-width: 1000px;
 }
 
+.z-min-1 {
+    z-index: -1;
+}
 .z-0 {
     z-index: 0;
 }
@@ -588,6 +595,10 @@ input[type=number] {
 .pos-top-0-per {
     top: 0;
 }
+.pos-top-min-100-per {
+    top: -100%;
+}
+
 .pos-top-50-per {
     top: 50%;
 }

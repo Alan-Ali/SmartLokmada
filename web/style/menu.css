@@ -98,8 +98,59 @@
     color: var(--lok-menu-tertiary-first-der)
 
 }
-
-
 .item-image-container{
     width: var(--item-image);
+}
+
+#item-details-container-modal{
+    top: -100%;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.57);
+    width: 100%;
+    height: 100%;
+    transition: 250ms top, 250ms opacity;
+}
+
+.reveal{
+    opacity: 0;
+}
+.reveal.active{
+    opacity: 1;
+}
+
+
+.active.going-left{
+    animation: going_left 3s ;
+}
+.active.going-right{
+    animation: going_right 1200ms;
+}
+
+
+
+
+@media screen and (min-width: 0) and (max-width: 768px){
+
+}
+
+@keyframes going_left {
+    0%{
+        left: -20%;
+        opacity: 0;
+    }100% {
+         left: 0;
+         opacity: 1;
+     }
+}
+
+
+@keyframes going_right {
+    0%{
+        right: -20%;
+        opacity: 0;
+
+    }100%{
+         right: 0;
+         opacity: 1;
+     }
 }
